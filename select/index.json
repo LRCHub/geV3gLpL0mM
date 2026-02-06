@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "オラシオン",
+  "base_artist": "白（CV:茅野愛衣）",
+  "createdAt": "2026-02-06T10:50:36.202152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オラシオン",
+      "artist": "Suzuki, Konomi",
+      "has_synced": false,
+      "path": "select/01_オラシオン_Suzuki,_Konomi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オラシオン",
+      "artist": "白(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/02_オラシオン_白(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オラシオン",
+      "artist": "Konomi Suzuki",
+      "has_synced": false,
+      "path": "select/03_オラシオン_Konomi_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オラシオン",
+      "artist": "白(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/04_オラシオン_白(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オラシオン (Instrumental)",
+      "artist": "白(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/05_オラシオン_(Instrumental)_白(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オラシオン",
+      "artist": "白(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/06_オラシオン_白(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オラシオン (Instrumental)",
+      "artist": "白; 茅野愛衣",
+      "has_synced": true,
+      "path": "select/07_オラシオン_(Instrumental)_白;_茅野愛衣.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オラシオン",
+      "artist": "白",
+      "has_synced": true,
+      "path": "select/08_オラシオン_白.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "オラシオン (鈴木このみアレンジカバーver)",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/09_オラシオン_(鈴木このみアレンジカバーver)_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オラシオン",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/10_オラシオン_鈴木このみ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "オラシオン",
+      "artist": "白（CV:茅野愛衣）",
+      "has_synced": true,
+      "path": "select/11_オラシオン_白(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "オラシオン",
+      "artist": "白(CV.茅野愛衣)",
+      "has_synced": true,
+      "path": "select/12_オラシオン_白(CV.茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "オラシオン (Instrumental)",
+      "artist": "白",
+      "has_synced": true,
+      "path": "select/13_オラシオン_(Instrumental)_白.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "オラシオン (Instrumental)",
+      "artist": "茅野愛衣",
+      "has_synced": true,
+      "path": "select/14_オラシオン_(Instrumental)_茅野愛衣.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オラシオン",
+      "artist": "白(CV:茅野愛衣)",
+      "has_synced": false,
+      "path": "select/pl_01_オラシオン_白(CV_茅野愛衣).txt"
+    }
+  ]
+}
